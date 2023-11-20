@@ -1,0 +1,12 @@
+.pic {
+    height: 350px ;
+    width: 250px;
+    object-fit: cover;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 500px;
+    font-family: "Saira Extra Condensed", sans-serif;
+}
